@@ -23,7 +23,7 @@ Memory Pool: Manages a single memory pool to minimize system calls like malloc a
 
 bash
 Copy code
-git clone https://github.com/your-username/memory-allocator.git
+git clone https://github.com/aditya28301/Meomary-Allocator.git
 📂 Open the Solution in Visual Studio:
 
 Navigate to the project directory.
